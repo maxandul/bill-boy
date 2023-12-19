@@ -1,0 +1,16 @@
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #d4af37;
+    font-family: 'Segoe UI', sans-serif;
+	font-size: 48px
+}
+
+h2, h3, h4, h5, h6 {
+    color: #C0C0C0;
+    font-family: 'Segoe UI', sans-serif;
+}
